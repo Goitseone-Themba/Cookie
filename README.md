@@ -1,2 +1,2 @@
 # Cookie
-This is just a ciikie popup to practice basic css
+This is just a cookie popup to practice basic css
